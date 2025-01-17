@@ -6,8 +6,15 @@
     <description>Recent content in 中文博客 on Hugo-HT</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 13:42:27 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 15:23:40 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/cn/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 04 06 a New Post</title>
+      <link>http://localhost:1313/cn/2025/01/17/2024-04-06-a-new-post/</link>
+      <pubDate>Fri, 17 Jan 2025 15:23:40 -0600</pubDate>
+      <guid>http://localhost:1313/cn/2025/01/17/2024-04-06-a-new-post/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Markdown 试水</title>
       <link>http://localhost:1313/cn/2021/01/07/first-post-cn/</link>
