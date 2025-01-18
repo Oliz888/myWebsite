@@ -1,69 +1,131 @@
 ---
-title: "Curriculum Vitae"
-type : list-single
+title: Projects
+type: nolisting
+toc: true
 ---
 
-## Albert Einstein
+## Selected Projects in Data Science
 
-Institute for Advanced Study\
-Einstein Drive/
-Princeton, N.J. 08540 USA
+---
 
-Phone: 609-734-8000\
-Mobile: 609-924-8399
+### How Consensus can be Involved Through Innovating Voting Mechanism? Using Polis Platform as an Example
 
-Email: a.einstein@ias.edu\
-URL: http://www.ias.edu/spfeatures/einstein/
+#### [Paper](/pdf/Consensus%20Detection%20in%20Innovating%20voting%20process.pdf) | [Code](https://github.com/Oliz888/Voting_Consensus_Detection/blob/main/voting_and_consensus.ipynb) | [Slides](/slides/voting%20consensus%20slides.pdf)
 
-Born: March 12, 1879—Ulm, Germany\
-Nationality: German/American
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="/images/umap_pca.png" alt="UMAP and PCA" style="max-width: 150%;">
+  </div>
+  <div style="flex: 2; padding-left: 150px; font-size: 14px;">
+    <p>
+      Used PCA and UMAP to visualize the participants’ stance on a 2-dimensional map.
+    </p>
+    <p>
+      Applied KMeans clustering to classify groups A and B and calculated centroid coordinates to measure the distance between groups.
+    </p>
+  </div>
+</div>
 
-### Current position
-Emeritus Professor, Institute for Advanced Study, Princeton 
+---
 
-### Areas of specialisation
-Physics; Relativity Theory
+### Network Analysis of Twitter to Identify Opinion Leaders, Emotional Cascades, and Community Structures
 
-### Appointments held
+#### [Paper](/pdf/hkna_paper.pdf) | [Code](https://github.com/Oliz888/hk2019protest_network_analysis/blob/main/2_Network_graph.ipynb) | [Slides](/slides/How%20Revolution%20Spreads%20and%20Evolves%20on%20social%20media.pdf)
 
-1903-1908, Swiss Patent Office, Bern\
-1908-1911, University of Bern\
-1911-1912, University of Zürich\
-1912-1914, Charles University of Prague\
-1914-1932, Prussian Academy of Sciences, Berlin\
-1920-1930, University of Leiden\
-1932-1955, Institute for Advanced Study, Princeton
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="/images/emotion_cascade.png" alt="Emotion Cascade" style="max-width: 150%;">
+  </div>
+  <div style="flex: 2; padding-left: 150px; font-size: 14px;">
+    <p>
+      Deployed K-core decomposition to examine the community structure. 
+    </p>
+    <p>
+      Applied NLP techniques, including Named Entity Recognition, Sentiment Analysis, and Topic Modeling, on tweets to investigate emotional cascades.
+    </p>
+  </div>
+</div>
 
-### Education
-1900, MSc in Physics, ETH Zürich 
-1900, PhD in Physics, ETH Zürich
+---
 
-### Grants, honours & awards
-1921, Nobel Prize in Physics, Nobel Foundation
+### Forecasting Cryptocurrency Prices Using Machine Learning: An Analysis of Reddit Discussions
 
-### Publications & talks
-#### Journal articles
-1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
-2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
-1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
-3. Einstein, Albert (1905), “On the Motion—Required by the Molecular Kinetic Theory of Heat—of Small Particles Suspended in a Stationary Liquid", *Annalen der Physik, 17*: 549–560.\
-1905d Einstein, Albert (1905), “On the Electrodynamics of Moving Bodies", *Annalen der Physik* 17:891–921.
-4. Einstein, Albert (1905), “Does the Inertia of a Body Depend Upon Its Energy Content?", *Annalen der Physik, 18*: 639–641.
-5. Einstein, Albert (1915), “Die Feldgleichungen der Gravitation (The Field Equations of Gravitation)", *Koniglich Preussische Akademie der Wissenschaften*: 844–847
-6. Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie (Cos-mological Considerations in the General Theory of Relativity)", *Koniglich Preussische Akademie der Wissenschaften*
-7. Einstein, Albert (1917), “Zur Quantentheorie der Strahlung (On the Quantum Mechanics of Ra- diation)", *Physikalische Zeitschrift, 18*: 121–128
+#### [Code](https://github.com/gu-ppol/spring-2024-reddit-bigdata-project-team-04?tab=readme-ov-file) | [Website](https://gu-ppol.github.io/spring-2024-reddit-bigdata-project-team-04/Introduction.html)
 
-#### Books
-Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-517-00393-7
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="/images/lstm.png" alt="LSTM Analysis" style="max-width: 150%;">
+  </div>
+  <div style="flex: 2; padding-left: 150px; font-size: 14px;">
+    <p>
+      By leveraging techniques like Exploratory Data Analysis (EDA), Natural Language Processing (NLP), and Machine Learning (ML) on a big data scale, we aim to uncover hidden patterns and trends that can shed light on the realities of investing in the crypto markets.
+    </p>
+    <p>
+      Developed data pipelines for a dataset of 6 million rows in AWS, leveraging SparkNLP for sentiment analysis and time-series prediction using LSTM, ARIMA, and Synapse ML for causal inference to model the sentiment trends and prices relationship.
+    </p>
+  </div>
+</div>
 
-#### Newspaper articles
-1. Einstein, Albert, et al. (December 4, 1948), “To the editors", *New York Times*
-2. Einstein, Albert (May 1949), “Why Socialism?", *Monthly Review*.
+---
 
-### Teaching
+### Quantifying the Complex Relationship between Lyrics, Chord Progression, and Emotion Stimulation
 
-...
+#### [Paper](/pdf/quantifying%20the%20complex%20relationship%20bwtween%20lyrics,%20chord%20progression%20and%20emotion%20.pdf) | [Code](https://github.com/Oliz888/quantifying-textual-featue-of-a-song/blob/main/clean.ipynb) | [Website](https://music-recommendation.my.canva.site/) | [Blog](https://medium.com/@sz614/exploring-the-relationship-between-lyrics-and-chord-progression-using-text-clustering-and-random-50c123267357)
 
-### Service to the profession
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="/images/wordcloud.png" alt="Word Cloud" style="max-width: 150%;">
+  </div>
+  <div style="flex: 2; padding-left: 150px; font-size: 14px;">
+    <p>
+      Utilized Bag of Words and Word2Vec methods, combined with KNN/hierarchical clustering, to identify songs with similar lyrics. 
+    </p>
+    <p>
+      Incorporated LDA and sentiment analysis for deeper lyrical understanding. Explored relationships between numerical (tempo, chord progression, key) and textual features using supervised machine learning.
+    </p>
+    <p>
+      Trained models to understand the connection between elements in music, improving recommendation accuracy using machine learning techniques and textual features.
+    </p>
+  </div>
+</div>
 
-...
+---
+
+### Building a Song Similarity Calculator to Improve the Recommendation System
+
+#### [Whitepaper](/pdf/How%20to%20Make%20Music%20Feature%20Explorer%20and%20Song%20Similarity%20Calculator%20in%20Streamlit.pdf) | [Code](https://github.com/Oliz888/similarity-calculator-dashboard) | [Application](https://similarity-calculator-dashboard.streamlit.app/Similarity_Calculator)
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="/images/dashboard.png" alt="Dashboard" style="max-width: 150%;">
+  </div>
+  <div style="flex: 2; padding-left: 150px; font-size: 14px;">
+    <p>
+      Features an interface for a song similarity calculator that evaluates both lyrical and numerical attributes of songs. 
+    </p>
+    <p>
+      Utilizes cosine similarity for comparison, displaying results through an overlapping radar graph for visual analysis.
+    </p>
+  </div>
+</div>
+
+---
+
+### Predicting Attitudes Towards UBI in the EU Using Supervised Machine Learning Techniques
+
+#### [Paper](/pdf/UBI_paper.pdf) | [Code](https://github.com/Oliz888/Predicting_UBI_Machine_Learning/blob/main/machine_learning.ipynb) | [Slides](/slides/UBI_slides.pdf)
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="/images/UBI.png" alt="UBI Analysis" style="max-width: 150%;">
+  </div>
+  <div style="flex: 2; padding-left: 150px; font-size: 14px;">
+    <p>
+      Built and trained Logistic Regression, Decision Tree, SVM, Random Forest, XGBoost, and GBDT models. 
+    </p>
+    <p>
+      Identified five primary and 35 secondary indicators influencing EU citizens’ attitudes towards UBI.
+    </p>
+  </div>
+</div>
+

@@ -1,69 +1,92 @@
 ---
 title: "Curriculum Vitae"
-type : list-single
+type: nolisting
+date: 2025-01-17 
 ---
 
-## Albert Einstein
+## Shirui (Olivia) Zhou
 
-Institute for Advanced Study\
-Einstein Drive/
-Princeton, N.J. 08540 USA
+##### **Email:** sz614@georgetown.edu  | **Phone:** 571-444-9537
+##### **GitHub:** [Oliz888](https://github.com/Oliz888)  | **Website:** [Personal Website](https://oliz888.github.io) | **Linkedin:** [Profile Link](https://www.linkedin.com/in/olivia-zhou-9a2a0719a/) 
 
-Phone: 609-734-8000\
-Mobile: 609-924-8399
+---
+### Summary
+A dedicated researcher with expertise in data science, economics, and public policy, aiming to advance computational social science through complex system analysis, network modeling, and the design of deliberation platforms.
 
-Email: a.einstein@ias.edu\
-URL: http://www.ias.edu/spfeatures/einstein/
-
-Born: March 12, 1879—Ulm, Germany\
-Nationality: German/American
-
-### Current position
-Emeritus Professor, Institute for Advanced Study, Princeton 
-
-### Areas of specialisation
-Physics; Relativity Theory
-
-### Appointments held
-
-1903-1908, Swiss Patent Office, Bern\
-1908-1911, University of Bern\
-1911-1912, University of Zürich\
-1912-1914, Charles University of Prague\
-1914-1932, Prussian Academy of Sciences, Berlin\
-1920-1930, University of Leiden\
-1932-1955, Institute for Advanced Study, Princeton
+---
 
 ### Education
-1900, MSc in Physics, ETH Zürich 
-1900, PhD in Physics, ETH Zürich
+**M.S. in Data Science for Public Policy**  
+Georgetown University, GPA: 3.87/4.00 (Expected May 2024)  
+- Coursework: Supervised and Unsupervised Machine Learning, Social Network Analysis, Big Data, Data Visualization, Comparative Public Policy.
 
-### Grants, honours & awards
-1921, Nobel Prize in Physics, Nobel Foundation
+**B.S. in Economics**  
+University of Nottingham, Ningbo, China, GPA: 3.84/4.00 (First Class, July 2022)  
+- Dissertation: *Can Remittances Compensate for Parental Absence in Left-Behind Children?*
 
-### Publications & talks
-#### Journal articles
-1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
-2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
-1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
-3. Einstein, Albert (1905), “On the Motion—Required by the Molecular Kinetic Theory of Heat—of Small Particles Suspended in a Stationary Liquid", *Annalen der Physik, 17*: 549–560.\
-1905d Einstein, Albert (1905), “On the Electrodynamics of Moving Bodies", *Annalen der Physik* 17:891–921.
-4. Einstein, Albert (1905), “Does the Inertia of a Body Depend Upon Its Energy Content?", *Annalen der Physik, 18*: 639–641.
-5. Einstein, Albert (1915), “Die Feldgleichungen der Gravitation (The Field Equations of Gravitation)", *Koniglich Preussische Akademie der Wissenschaften*: 844–847
-6. Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie (Cos-mological Considerations in the General Theory of Relativity)", *Koniglich Preussische Akademie der Wissenschaften*
-7. Einstein, Albert (1917), “Zur Quantentheorie der Strahlung (On the Quantum Mechanics of Ra- diation)", *Physikalische Zeitschrift, 18*: 121–128
+---
 
-#### Books
-Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-517-00393-7
+### Working Papers
+1. *Network Analysis of Opinion Leaders: A Case Study of the 2019 Hong Kong Protests* (In Preparation, 2024)  
+2. *Consensus Through Innovative Voting Mechanisms Using the Pol.is Platform* (In Preparation, 2024)  
+3. *Quantifying Lyrics and Emotional Responses Using NLP and Clustering Techniques* (In Preparation, 2024)  
+4. *European Attitudes on Universal Basic Income AI-Driven Unemployment Shocks* (In Preparation, 2024)  
 
-#### Newspaper articles
-1. Einstein, Albert, et al. (December 4, 1948), “To the editors", *New York Times*
-2. Einstein, Albert (May 1949), “Why Socialism?", *Monthly Review*.
+---
 
-### Teaching
+### Projects
+**Network Analysis of Opinion Leaders**  
+- Performed sentiment analysis on 255,000 tweets using NLTK and Word2Vec.  
+- Conducted social network analysis to detect community structures with Gephi.
 
-...
+**Visualizing Consensus Dynamics on Pol.is**  
+- Applied PCA, UMAP, and K-means clustering to analyze voting behavior.  
+- Conducted time-series analysis to examine polarization and consensus formation.
 
-### Service to the profession
+**Cryptocurrency Sentiment Analysis**  
+- Developed an NLP pipeline using AWS SparkML to analyze 6M+ rows of Reddit comments.  
+- Applied LSTM and ARIMA models to forecast cryptocurrency price fluctuations.
 
-...
+**Music Recommendation Engine**  
+- Built a recommendation engine using Word2Vec and clustering techniques.  
+- Deployed a multi-page interactive website with Streamlit.
+
+---
+
+### Work Experience
+**Information Technology Engineer**  
+Taurus Industrial Group, Port Lavaca, TX (Nov 2024 - Present)  
+
+**Data Scientist Consultant**  
+The World Bank, Washington, DC (Mar 2024 - Nov 2024)  
+
+**Data Analyst Intern**  
+Ashoka Innovators for the Public, Arlington, VA (May 2023 - Sep 2023)  
+
+**Media Analyst Intern**  
+Matters Lab, Dali, China (May 2022 - Sep 2022)  
+
+**Research Assistant**  
+Intellisia Institute, Guangzhou, China (May 2021 - Sep 2021)  
+
+---
+
+### Teaching Experience
+**Teaching Assistant**  
+McCourt School of Public Policy, Georgetown University (Aug 2023 - Present)  
+- Courses: Data Science Foundations, Accelerated Statistics, Accelerated Microeconomics.
+
+---
+
+### Skills
+- **Programming:** Python, R, STATA, MATLAB, TensorFlow, PyTorch.  
+- **Big Data:** AWS, Spark, Hadoop, MongoDB.  
+- **Machine Learning:** XGBoost, NLP, PCA, SVM, Clustering.  
+- **Visualization:** Matplotlib, Seaborn, Streamlit, Tableau, D3.js.
+
+---
+
+### Research Interests
+- Network analysis, computational social science, decentralized governance, and opinion dynamics.
+
+---
