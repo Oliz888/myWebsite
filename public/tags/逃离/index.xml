@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>逃离 on Oliz&#39;s Personal Website</title>
-    <link>http://localhost:59838/tags/%E9%80%83%E7%A6%BB/</link>
+    <link>http://localhost:1313/tags/%E9%80%83%E7%A6%BB/</link>
     <description>Recent content in 逃离 on Oliz&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:59838/tags/%E9%80%83%E7%A6%BB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E9%80%83%E7%A6%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在世界邊緣行走-漫遊者手冊</title>
-      <link>http://localhost:59838/cn/2023/02/13/2023-02-13/</link>
+      <link>http://localhost:1313/cn/2023/02/13/2023-02-13/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59838/cn/2023/02/13/2023-02-13/</guid>
+      <guid>http://localhost:1313/cn/2023/02/13/2023-02-13/</guid>
       <description>&lt;p&gt;在世界邊緣行走-漫遊者手冊&#xA;(以下內容基於個人有限經驗，僅限參考）&lt;/p&gt;&#xA;&lt;p&gt;沿海灘往夕陽的方向走，突然意識到這是這趟旅途中的最後一個夕陽了。被海水浸泡過一天的沙灘踩上去像巧克力賣芬一樣，鬆鬆軟軟。&lt;/p&gt;&#xA;&lt;p&gt;天邊的蘑菇雲，耳機裡傳來竇唯的《噢，乖》，我忍不住想一會正著走，一會到著走，甚至轉著圈走。在旁人眼裡，這一定是一副奇異的景象吧，堪稱人類早期四肢馴化的珍貴影像紀錄。&lt;/p&gt;&#xA;&lt;p&gt;這趟Costa Rica的旅程算是我第一次真正意義上的數字遊民的實驗。雖然之前有在大理淺淺嘗試過一個月，但畢竟是“投靠”一個關注很久的社區，相對來說，過的是一種不需要太操心的集體生活。而這次，從最開始的research選址到最終的plan落地，都是我一個人獨自完成。&lt;/p&gt;&#xA;&lt;p&gt;看到社媒上，個人主權，網路國家，web3的國家越來越被大家所關注，想把一些笨拙的經驗拿出來給大家做分享。本篇主要詳細講具體的實施方案，有關概念可以參考（包括但不僅限妤）：&lt;/p&gt;&#xA;&lt;p&gt;【個人主權】，【網絡國家】，【逃離統治的藝術】，【密碼朋克】，【倦態社會】…&lt;/p&gt;&#xA;&lt;p&gt;Part 1 行前準備&#xA;Step 1: 構建你對於未來短期（1-3月）的“幻想”&#xA;挑選愁雲慘澹的一天，列出你最討厭目前所在地的若干理由。比如我在DC, 我列出了：冬天太冷，多元化程度低，政治意味太濃，生活太過於單調無聊…&lt;/p&gt;&#xA;&lt;p&gt;於此同時，幻想一下如果可能的話，你願意生活地方的vibe, 要具體！！比如：可以衝浪，物價不太高，遊客氣息少 or 有豐富展廊，藝術演出…&lt;/p&gt;&#xA;&lt;p&gt;大概可以事無巨細的從早晨想像到晚上，列出必要的元素&lt;/p&gt;&#xA;&lt;p&gt;Step 2: 縮小選擇範圍到具體的幾個目的地&#xA;這些目的地（城市）通常具備妳所要的所有必備屬性，但同時在價格，舒適度，基礎設施，距離上各有千秋。&lt;/p&gt;&#xA;&lt;p&gt;如我根據：適合衝浪，全年夏季，離美國距離近（節省機票嘛)，有數字遊民基礎設施&lt;/p&gt;&#xA;&lt;p&gt;初篩選擇了以下目的地：波多黎各，墨西哥，哥斯大黎加，夏威夷…&lt;/p&gt;&#xA;&lt;p&gt;Step 3: 測試可行性（建議使用Google or Tor）&#xA;Visa是否符合准入標準： 可以直接查目的地的官方網站，一般會有具體的規則&lt;/p&gt;&#xA;&lt;p&gt;對中國公民數字遊民簽證友好國家：&lt;/p&gt;&#xA;&lt;p&gt;查機票：有的時間段真的巨貴無比…&lt;/p&gt;&#xA;&lt;p&gt;查基礎成本：看看一頓飯，一瓶可樂，一張床位大概需要花多少錢&lt;/p&gt;&#xA;&lt;p&gt;推薦使用：nomadlist&lt;/p&gt;&#xA;&lt;p&gt;看基礎設施：城市間交通，電話，wi-fi覆蓋率，&lt;/p&gt;&#xA;&lt;p&gt;看工作便利度：時區是否OK，是否有合適幫工的co-working space，是否有足夠有意思並且友好的咖啡館&lt;/p&gt;&#xA;&lt;p&gt;Step 4: 選定目的地並訂機票酒店&#xA;我在一個星期左右的research後，因為生活成本太貴cross掉了夏威夷，因機票太貴放棄了泰國，因剛過颱風滑掉了波多黎各，因簽證太趕放棄了brazil…&lt;/p&gt;&#xA;&lt;p&gt;剩下的再滑滑圖片，看照片是否符合“幻想中”的煙火氣，倒騰來倒騰去，最終我的目標選在了一個叫Samara的海邊小鎮&lt;/p&gt;&#xA;&lt;p&gt;來的第一天，一個大眼睛捷克人認真的問我：欸妳是第一次來哥斯大黎加嗎，你是怎麼知道這個地方的？這是我第四次折回這個小鎮了，能“發現”著你真是太幸運了。&lt;/p&gt;&#xA;&lt;p&gt;“你是怎麼發現這個地方的？”這樣的問題我被問了數次&lt;/p&gt;&#xA;&lt;p&gt;其實很簡單，首先我的目的是衝浪，在最適合衝浪的幾個小鎮裡，我選擇了物價相對低廉（好吧，是hostel均價最低）同時又有一家看上去很棒的co-working space的地方&lt;/p&gt;&#xA;&lt;p&gt;有了對這個地方的初假設後，我便在ins，facebook，Reddit全網搜索，來驗證假設 （不要被店家圖蒙蔽，多看回答）&lt;/p&gt;&#xA;&lt;p&gt;關於hostel, 我想多說兩句…&lt;/p&gt;&#xA;&lt;p&gt;其實真的不可怕啊，不要看它便宜，但是真的很夠用。首先，你擁有一張床位，其次你擁有一個能遇到五湖四海的朋友的公共空間，簡而言之，（你擁有全世界）&lt;/p&gt;&#xA;&lt;p&gt;我在Montverde住的空間，擁有很令人安心的木製床，乾濕分離的淋浴，超美味的早晨（水果+煎吐司+煎蛋+咖啡），很美的花園和一個放著吉他，書，各種棋類遊戲的公共空間&lt;/p&gt;&#xA;&lt;p&gt;而在Samara住的hostel，我幾乎與所有常駐民變成了朋友，volunteer Rafel來自法國，有著法國人常有的揶揄，總是漫不經心的開些玩笑，和我同期的Lucie同樣來自法國，是個街頭攝影師，還有來自Switzerland的Caleb, 留著反叛歌手的血液，身體裡似乎有一股暗能量，來自捷克的Adam，是為走遍50個國家的人類學家，為了蹭中餐，和我做教Spanish的meal exchange，來自阿根廷的pablo,靠做手工賣給遊客來維持審計。和這些朋友們，我們會一起去海灘曬太陽，坐在日落的海灘喝啤酒嘮嗑，玩紙牌彈吉他做飯，在節日的夜晚去海灘邊生篝火做燒烤…&lt;/p&gt;&#xA;&lt;p&gt;選hostel之前，我一般會先選定價格區間（我個人一般訂10-20/per night) , 讓後看位置，對我來說交通便利且安靜比較重要。然後最重要的便是vibe, 如何評定呢？除去看公共空間的圖片外，多看看評論，是否容易交到朋友，主理人是否友好，平常活動的豐富程度（比如有的hostel特別喜歡party, 對於白天有工作需要的nomad來說就不太友好），還可以目的地+ hostel 全網搜，看看整體評價&lt;/p&gt;&#xA;&lt;p&gt;Step 5: 構建社交網路，善用社交媒體&#xA;找到當地數字遊民社群一個很重要的方式是社交媒體。比如出發前我會先在Ins, Facebook, Reddit 上搜索”目的地名稱“+digital nomad, 一般在Ins上會有比較多當地知名的digital nomad社群組織聯繫方式，適合工作的共享幫工空間，咖啡館以及平常的集體活動如技能交換，資訊分享… Reddit 上比較多求助貼和經驗貼，如果對去同一個國家的兩個城市拿不定主意，可以發帖自己的需要詢問常駐民的看法，而facebook更多的是互助小組。&lt;/p&gt;</description>
     </item>
   </channel>

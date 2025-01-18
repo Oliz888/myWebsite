@@ -2,17 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on Oliz&#39;s Personal Website</title>
-    <link>http://localhost:59838/tags/data-science/</link>
+    <link>http://localhost:1313/tags/data-science/</link>
     <description>Recent content in Data Science on Oliz&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:59838/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring the relationship between lyrics and chord progression using text clustering and random forest</title>
+      <link>http://localhost:1313/en/2023/11/21/2023-11-21/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/2023/11/21/2023-11-21/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@sz614/exploring-the-relationship-between-lyrics-and-chord-progression-using-text-clustering-and-random-50c123267357&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Read more on Medium&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to make visualization with Geospatial data in Python</title>
+      <link>http://localhost:1313/en/2023/11/21/2023-11-21/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/2023/11/21/2023-11-21/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@sz614/how-to-make-visualization-with-geospatial-data-in-python-0f3a9677bce9&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Read more on Medium&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What if we have an Digital Agora</title>
+      <link>http://localhost:1313/en/2022/10/22/2022-10-12/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/2022/10/22/2022-10-12/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://oliz0808eth.substack.com/p/what-if-we-have-an-digital-agora&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Read more on Substack&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Bridging to Earn: Decentralized Civil Forum Bridging Platform (aka. Agora)&#xA;Reimagine Social Platform with Tokenization of Attention Economy, Bridging-based Algorithm and Quadratic Voting&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Polarization in Social Media: Problems and Solution&#xA;1.1 Attention Economy Behind the Scene&#xA;This logical how the machine of modern capitalism works: the intertwine between corruption in political power, interest of multi-national enterprises (MNE) and commercialism thriving under the millennial era of social media creates a deterministic path for individual existence - if you want to exist in the system, you have to adapt and assimilate into a part of the machine. Your taste, your deepest fear and your dream are, in a sense, are shaped by the allocation of your attention, which are disproportionately allocated to the commercial advertisement, where capital intentionally directs. This can be a silent penetration process, as depicts in the The Society of the Spectacle by Guy Debord, where the consumer culture and commodity fetishism would only affect the individual thinking and decision-making in a subconscious way.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The relatively uprising of the materialized and atomized life-style in the post-modern society with the massive invasion of centralized social media platform (e.g. Twitter, Facebook, Instagram, etc) is not a coincidence. The true representation behind them, is the profit-mongering MNEs, the exact opposite public interest. As a seemingly obvious consequence, it witnesses a decaying of public sphere: an arena where citizens come together, exchange opinions regarding public affairs, discuss, deliberate, and eventually form public opinion. Even without the deliberate distract create by the platform, the nature of public affair itself - the solemnity, the demanding of meticulosity and commitment- would not survive in a society worshiping mass culture without the respect to the spirit of civil culture.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Concesnus Protocol</title>
-      <link>http://localhost:59838/en/2022/10/05/2022-10-15/</link>
+      <link>http://localhost:1313/en/2022/10/05/2022-10-15/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59838/en/2022/10/05/2022-10-15/</guid>
+      <guid>http://localhost:1313/en/2022/10/05/2022-10-15/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://nebulous-helmet-5b6.notion.site/Fork_the_Government-a02ad4c91f064fbd86066ff0c7671b36&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Read more on Notion&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;independent-research&#34;&gt;Independent Research:&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;How is consensus built and evolved through a voting mechanism?&lt;/strong&gt;&lt;br&gt;&#xA;Using Taiwan’s voting regarding Uber compliance issues on Polis as an example.&lt;/p&gt;&#xA;&lt;h3 id=&#34;projects-main-question&#34;&gt;Project’s Main Question:&lt;/h3&gt;&#xA;&lt;p&gt;Polls and probabilistic modeling results often serve as a reference for predicting voting behavior in final elections. However, issues like the ‘horse race’ problem and misinterpretation of models can distort the original intent of polls and voting, which should unite society and find common ground among different communities.&lt;/p&gt;</description>
     </item>
   </channel>
