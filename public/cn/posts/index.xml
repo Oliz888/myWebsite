@@ -1,32 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>中文博客 on Hugo-HT</title>
-    <link>http://localhost:1313/cn/posts/</link>
-    <description>Recent content in 中文博客 on Hugo-HT</description>
+    <title>中文博客 on Oliz&#39;s Personal Website</title>
+    <link>http://localhost:59838/cn/posts/</link>
+    <description>Recent content in 中文博客 on Oliz&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jan 2025 15:23:40 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/cn/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59838/cn/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024 04 06 a New Post</title>
-      <link>http://localhost:1313/cn/2025/01/17/2024-04-06-a-new-post/</link>
+      <link>http://localhost:59838/cn/2025/01/17/2024-04-06-a-new-post/</link>
       <pubDate>Fri, 17 Jan 2025 15:23:40 -0600</pubDate>
-      <guid>http://localhost:1313/cn/2025/01/17/2024-04-06-a-new-post/</guid>
+      <guid>http://localhost:59838/cn/2025/01/17/2024-04-06-a-new-post/</guid>
       <description></description>
     </item>
     <item>
+      <title>在世界邊緣行走-漫遊者手冊</title>
+      <link>http://localhost:59838/cn/2023/02/13/2023-02-13/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59838/cn/2023/02/13/2023-02-13/</guid>
+      <description>&lt;p&gt;在世界邊緣行走-漫遊者手冊&#xA;(以下內容基於個人有限經驗，僅限參考）&lt;/p&gt;&#xA;&lt;p&gt;沿海灘往夕陽的方向走，突然意識到這是這趟旅途中的最後一個夕陽了。被海水浸泡過一天的沙灘踩上去像巧克力賣芬一樣，鬆鬆軟軟。&lt;/p&gt;&#xA;&lt;p&gt;天邊的蘑菇雲，耳機裡傳來竇唯的《噢，乖》，我忍不住想一會正著走，一會到著走，甚至轉著圈走。在旁人眼裡，這一定是一副奇異的景象吧，堪稱人類早期四肢馴化的珍貴影像紀錄。&lt;/p&gt;&#xA;&lt;p&gt;這趟Costa Rica的旅程算是我第一次真正意義上的數字遊民的實驗。雖然之前有在大理淺淺嘗試過一個月，但畢竟是“投靠”一個關注很久的社區，相對來說，過的是一種不需要太操心的集體生活。而這次，從最開始的research選址到最終的plan落地，都是我一個人獨自完成。&lt;/p&gt;&#xA;&lt;p&gt;看到社媒上，個人主權，網路國家，web3的國家越來越被大家所關注，想把一些笨拙的經驗拿出來給大家做分享。本篇主要詳細講具體的實施方案，有關概念可以參考（包括但不僅限妤）：&lt;/p&gt;&#xA;&lt;p&gt;【個人主權】，【網絡國家】，【逃離統治的藝術】，【密碼朋克】，【倦態社會】…&lt;/p&gt;&#xA;&lt;p&gt;Part 1 行前準備&#xA;Step 1: 構建你對於未來短期（1-3月）的“幻想”&#xA;挑選愁雲慘澹的一天，列出你最討厭目前所在地的若干理由。比如我在DC, 我列出了：冬天太冷，多元化程度低，政治意味太濃，生活太過於單調無聊…&lt;/p&gt;&#xA;&lt;p&gt;於此同時，幻想一下如果可能的話，你願意生活地方的vibe, 要具體！！比如：可以衝浪，物價不太高，遊客氣息少 or 有豐富展廊，藝術演出…&lt;/p&gt;&#xA;&lt;p&gt;大概可以事無巨細的從早晨想像到晚上，列出必要的元素&lt;/p&gt;&#xA;&lt;p&gt;Step 2: 縮小選擇範圍到具體的幾個目的地&#xA;這些目的地（城市）通常具備妳所要的所有必備屬性，但同時在價格，舒適度，基礎設施，距離上各有千秋。&lt;/p&gt;&#xA;&lt;p&gt;如我根據：適合衝浪，全年夏季，離美國距離近（節省機票嘛)，有數字遊民基礎設施&lt;/p&gt;&#xA;&lt;p&gt;初篩選擇了以下目的地：波多黎各，墨西哥，哥斯大黎加，夏威夷…&lt;/p&gt;&#xA;&lt;p&gt;Step 3: 測試可行性（建議使用Google or Tor）&#xA;Visa是否符合准入標準： 可以直接查目的地的官方網站，一般會有具體的規則&lt;/p&gt;&#xA;&lt;p&gt;對中國公民數字遊民簽證友好國家：&lt;/p&gt;&#xA;&lt;p&gt;查機票：有的時間段真的巨貴無比…&lt;/p&gt;&#xA;&lt;p&gt;查基礎成本：看看一頓飯，一瓶可樂，一張床位大概需要花多少錢&lt;/p&gt;&#xA;&lt;p&gt;推薦使用：nomadlist&lt;/p&gt;&#xA;&lt;p&gt;看基礎設施：城市間交通，電話，wi-fi覆蓋率，&lt;/p&gt;&#xA;&lt;p&gt;看工作便利度：時區是否OK，是否有合適幫工的co-working space，是否有足夠有意思並且友好的咖啡館&lt;/p&gt;&#xA;&lt;p&gt;Step 4: 選定目的地並訂機票酒店&#xA;我在一個星期左右的research後，因為生活成本太貴cross掉了夏威夷，因機票太貴放棄了泰國，因剛過颱風滑掉了波多黎各，因簽證太趕放棄了brazil…&lt;/p&gt;&#xA;&lt;p&gt;剩下的再滑滑圖片，看照片是否符合“幻想中”的煙火氣，倒騰來倒騰去，最終我的目標選在了一個叫Samara的海邊小鎮&lt;/p&gt;&#xA;&lt;p&gt;來的第一天，一個大眼睛捷克人認真的問我：欸妳是第一次來哥斯大黎加嗎，你是怎麼知道這個地方的？這是我第四次折回這個小鎮了，能“發現”著你真是太幸運了。&lt;/p&gt;&#xA;&lt;p&gt;“你是怎麼發現這個地方的？”這樣的問題我被問了數次&lt;/p&gt;&#xA;&lt;p&gt;其實很簡單，首先我的目的是衝浪，在最適合衝浪的幾個小鎮裡，我選擇了物價相對低廉（好吧，是hostel均價最低）同時又有一家看上去很棒的co-working space的地方&lt;/p&gt;&#xA;&lt;p&gt;有了對這個地方的初假設後，我便在ins，facebook，Reddit全網搜索，來驗證假設 （不要被店家圖蒙蔽，多看回答）&lt;/p&gt;&#xA;&lt;p&gt;關於hostel, 我想多說兩句…&lt;/p&gt;&#xA;&lt;p&gt;其實真的不可怕啊，不要看它便宜，但是真的很夠用。首先，你擁有一張床位，其次你擁有一個能遇到五湖四海的朋友的公共空間，簡而言之，（你擁有全世界）&lt;/p&gt;&#xA;&lt;p&gt;我在Montverde住的空間，擁有很令人安心的木製床，乾濕分離的淋浴，超美味的早晨（水果+煎吐司+煎蛋+咖啡），很美的花園和一個放著吉他，書，各種棋類遊戲的公共空間&lt;/p&gt;&#xA;&lt;p&gt;而在Samara住的hostel，我幾乎與所有常駐民變成了朋友，volunteer Rafel來自法國，有著法國人常有的揶揄，總是漫不經心的開些玩笑，和我同期的Lucie同樣來自法國，是個街頭攝影師，還有來自Switzerland的Caleb, 留著反叛歌手的血液，身體裡似乎有一股暗能量，來自捷克的Adam，是為走遍50個國家的人類學家，為了蹭中餐，和我做教Spanish的meal exchange，來自阿根廷的pablo,靠做手工賣給遊客來維持審計。和這些朋友們，我們會一起去海灘曬太陽，坐在日落的海灘喝啤酒嘮嗑，玩紙牌彈吉他做飯，在節日的夜晚去海灘邊生篝火做燒烤…&lt;/p&gt;&#xA;&lt;p&gt;選hostel之前，我一般會先選定價格區間（我個人一般訂10-20/per night) , 讓後看位置，對我來說交通便利且安靜比較重要。然後最重要的便是vibe, 如何評定呢？除去看公共空間的圖片外，多看看評論，是否容易交到朋友，主理人是否友好，平常活動的豐富程度（比如有的hostel特別喜歡party, 對於白天有工作需要的nomad來說就不太友好），還可以目的地+ hostel 全網搜，看看整體評價&lt;/p&gt;&#xA;&lt;p&gt;Step 5: 構建社交網路，善用社交媒體&#xA;找到當地數字遊民社群一個很重要的方式是社交媒體。比如出發前我會先在Ins, Facebook, Reddit 上搜索”目的地名稱“+digital nomad, 一般在Ins上會有比較多當地知名的digital nomad社群組織聯繫方式，適合工作的共享幫工空間，咖啡館以及平常的集體活動如技能交換，資訊分享… Reddit 上比較多求助貼和經驗貼，如果對去同一個國家的兩個城市拿不定主意，可以發帖自己的需要詢問常駐民的看法，而facebook更多的是互助小組。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>寫作是最小單位的自由</title>
+      <link>http://localhost:59838/cn/2022/11/18/2022-11-18/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59838/cn/2022/11/18/2022-11-18/</guid>
+      <description>&lt;p&gt;2022年11月18日，只身來到美國後的第三個月，我決定重拾寫作。&lt;/p&gt;&#xA;&lt;p&gt;一方面，來記錄我內心的變化與想法，對自己誠實。另一方面，來記錄我們的談話，太多精彩的發言值得被記錄。我有時會想，如果沒有遇到你們，大概我還是會像以前一樣用耳機與滑板把自己和世界隔離起來吧。企圖用巨大的音樂與飛速的滑行樹立起一面圍牆。&lt;/p&gt;&#xA;&lt;p&gt;但是多幸運呀，我遇到了你們。一個關鍵詞，甚至一個眼神就能識別對方想法的你們。我大概很久很久之後也不會忘記那些激昂的談話與沈浸在大腦飛速運作的時刻，那些我知道注定將融入我的血液，成為無人陪伴之際的力量。&lt;/p&gt;&#xA;&lt;p&gt;在清晨的校園和紅色的圍牆，在Old North永遠人聲鼎沸的lounge，在小酒館，在寒風刺骨的陽台上，和無數次行走的路上…&lt;/p&gt;&#xA;&lt;p&gt;如果我能漂浮在上空俯視這一切，大概我會看見在試圖接近真相的喜悅。我們討論著那些遠方的呼喊與不被正視的苦難，權力結構巨大失衡的性別體系，專制與獨裁如何一步步地自掘墳墓，本能同情能力與國家擬人主義的工具理性，平庸之惡與既得利益者對秩序的維護。&lt;/p&gt;&#xA;&lt;p&gt;能遇到一群能形成回音壁的朋友是幸福的，但你們是超越echo chamber的存在。就像延伸的觸角，通過思想在對話中的一次次碰撞，我的感知力以三倍的方式增強。&lt;/p&gt;&#xA;&lt;p&gt;今天我又一次踩著滑板，聽著音樂滑在路上，加之看了《She Said》。之前的黑暗與希望似乎在記憶中復活。但似乎也正是因為這些痛苦，我才能反思，才能遇到你們。這是一封寫給你們的💌，也是一封寄往未來的🚩。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Markdown 试水</title>
-      <link>http://localhost:1313/cn/2021/01/07/first-post-cn/</link>
+      <link>http://localhost:59838/cn/2021/01/07/first-post-cn/</link>
       <pubDate>Thu, 07 Jan 2021 13:42:27 -0500</pubDate>
-      <guid>http://localhost:1313/cn/2021/01/07/first-post-cn/</guid>
+      <guid>http://localhost:59838/cn/2021/01/07/first-post-cn/</guid>
       <description>&lt;h1 id=&#34;第一级标题&#34;&gt;第一级标题&lt;/h1&gt;&#xA;&lt;h2 id=&#34;第二级标题&#34;&gt;第二级标题&lt;/h2&gt;&#xA;&lt;h3 id=&#34;第三级标题&#34;&gt;第三级标题&lt;/h3&gt;&#xA;&lt;h4 id=&#34;第四级标题&#34;&gt;第四级标题&lt;/h4&gt;&#xA;&lt;h5 id=&#34;第五级标题&#34;&gt;第五级标题&lt;/h5&gt;&#xA;&lt;h6 id=&#34;第六级标题&#34;&gt;第六级标题&lt;/h6&gt;&#xA;&lt;h2 id=&#34;列表&#34;&gt;列表&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;li&gt;Water&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Water&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;li&gt;Water&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;表格&#34;&gt;表格&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Water&lt;/th&gt;&#xA;          &lt;th&gt;&lt;em&gt;Water&lt;/em&gt;&lt;/th&gt;&#xA;          &lt;th&gt;Water&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Water&lt;/td&gt;&#xA;          &lt;td&gt;Water&lt;/td&gt;&#xA;          &lt;td&gt;Water&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Water&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Water&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Water&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Water&lt;/td&gt;&#xA;          &lt;td&gt;Water&lt;/td&gt;&#xA;          &lt;td&gt;Water&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;引语&#34;&gt;引语&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;知之为知之，不知为不知，是知也&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;。 — 孔子&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;数学公式&#34;&gt;数学公式&lt;/h2&gt;&#xA;&lt;p&gt;最简单的如，&lt;code&gt;$1 + 1 = 3$&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;你可以加入索引:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;$$p(x) = \frac{1}{\sigma \sqrt{2 \pi}} exp \left(-\frac{1}{2}\left[\frac{x-\mu}{\sigma}\right]^2\right)\tag{1.1}\label{eq1.1}$$&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;多行&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;,&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;\begin{align} \sqrt{37} &amp;amp; = \sqrt{\frac{73^2-1}{12^2}} \\ &amp;amp; = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\  &amp;amp; = \sqrt{\frac{73^2}{12^2}}\sqrt{\frac{73^2-1}{73^2}} \\ &amp;amp; = \frac{73}{12}\sqrt{1 - \frac{1}{73^2}} \\  &amp;amp; \approx \frac{73}{12}\left(1 - \frac{1}{2\cdot73^2}\right) \end{align}&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>背影</title>
-      <link>http://localhost:1313/cn/1925/10/01/beiying/</link>
+      <link>http://localhost:59838/cn/1925/10/01/beiying/</link>
       <pubDate>Thu, 01 Oct 1925 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/1925/10/01/beiying/</guid>
+      <guid>http://localhost:59838/cn/1925/10/01/beiying/</guid>
       <description>&lt;p&gt;我与父亲不相见已二年余了，我最不能忘记的是他的背影。那年冬天，祖母死了，父亲的差使也交卸了，正是祸不单行的日子，我从北京到徐州，打算跟着父亲奔丧回家。到徐州见着父亲，看见满院狼藉的东西，又想起祖母，不禁簌簌地流下眼泪。父亲说，“事已如此，不必难过，好在天无绝人之路！”&lt;/p&gt;&#xA;&lt;p&gt;　　回家变卖典质，父亲还了亏空；又借钱办了丧事。这些日子，家中光景很是惨淡，一半为了丧事，一半为了父亲赋闲。丧事完毕，父亲要到南京谋事，我也要回北京念书，我们便同行。&lt;/p&gt;&#xA;&lt;p&gt;　　到南京时，有朋友约去游逛，勾留了一日；第二日上午便须渡江到浦口，下午上车北去。父亲因为事忙，本已说定不送我，叫旅馆里一个熟识的茶房陪我同去。他再三嘱咐茶房，甚是仔细。但他终于不放心，怕茶房不妥帖；颇踌躇了一会。其实我那年已二十岁，北京已来往过两三次，是没有甚么要紧的了。他踌躇了一会，终于决定还是自己送我去。我两三回劝他不必去；他只说，“不要紧，他们去不好！”&lt;/p&gt;&#xA;&lt;p&gt;　　我们过了江，进了车站。我买票，他忙着照看行李。行李太多了，得向脚夫行些小费，才可过去。他便又忙着和他们讲价钱。我那时真是聪明过分，总觉他说话不大漂亮，非自己插嘴不可。但他终于讲定了价钱；就送我上车。他给我拣定了靠车门的一张椅子；我将他给我做的紫毛大衣铺好坐位。他嘱我路上小心，夜里警醒些，不要受凉。又嘱托茶房好好照应我。我心里暗笑他的迂；他们只认得钱，托他们直是白托！而且我这样大年纪的人，难道还不能料理自己么？唉，我现在想想，那时真是太聪明了！&lt;/p&gt;&#xA;&lt;p&gt;　　我说道，“爸爸，你走吧。”他望车外看了看，说，“我买几个橘子去。你就在此地，不要走动。”我看那边月台的栅栏外有几个卖东西的等着顾客。走到那边月台，须穿过铁道，须跳下去又爬上去。父亲是一个胖子，走过去自然要费事些。我本来要去的，他不肯，只好让他去。我看见他戴着黑布小帽，穿着黑布大马褂，深青布棉袍，蹒跚地走到铁道边，慢慢探身下去，尚不大难。可是他穿过铁道，要爬上那边月台，就不容易了。他用两手攀着上面，两脚再向上缩；他肥胖的身子向左微倾，显出努力的样子。这时我看见他的背影，我的泪很快地流下来了。我赶紧拭干了泪，怕他看见，也怕别人看见。我再向外看时，他已抱了朱红的橘子望回走了。过铁道时，他先将橘子散放在地上，自己慢慢爬下，再抱起橘子走。到这边时，我赶紧去搀他。他和我走到车上，将橘子一股脑儿放在我的皮大衣上。于是扑扑衣上的泥土，心里很轻松似的，过一会说，“我走了；到那边来信！”我望着他走出去。他走了几步，回过头看见我，说，“进去吧，里边没人。”等他的背影混入来来往往的人里，再找不着了，我便进来坐下，我的眼泪又来了。&lt;/p&gt;&#xA;&lt;p&gt;　　近几年来，父亲和我都是东奔西走，家中光景是一日不如一日。他少年出外谋生，独力支持，做了许多大事。那知老境却如此颓唐！他触目伤怀，自然情不能自已。情郁于中，自然要发之于外；家庭琐屑便往往触他之怒。他待我渐渐不同往日。但最近两年的不见，他终于忘却我的不好，只是惦记着我，惦记着我的儿子。我北来后，他写了一信给我，信中说道，“我身体平安，惟膀子疼痛利害，举箸提笔，诸多不便，大约大去之期不远矣。”我读到此处，在晶莹的泪光中，又看见那肥胖的，青布棉袍，黑布马褂的背影。唉！我不知何时再能与他相见！&lt;/p&gt;</description>
     </item>
   </channel>

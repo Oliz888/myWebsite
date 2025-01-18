@@ -1,0 +1,269 @@
+<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><a name="top"></a>
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hugo-HT</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" rel="stylesheet">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/bash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+            <link rel="icon" href="http://localhost:1313/media/icon-512.png">
+
+
+
+
+
+  </head>
+  
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav" >
+      <a href="/" class="nav-logo">
+        <img src="/media/icon-512.png"
+         width="50"
+         height="50"
+         alt="Hugo-ht">
+      </a>
+
+      <ul class="nav-links" >
+        
+        
+           <li><a href="/">Home</a></li>
+       
+           <li><a href="/en/about/">About</a></li>
+       
+           <li><a href="/en/project/">Projects</a></li>
+       
+           <li><a href="/en/posts/">Posts</a></li>
+       
+           <li><a href="/cn/posts/">中文</a></li>
+       
+       
+      </ul>
+</nav>
+      </header>
+
+<main class = "content" role="main">
+<div style="text-align: center">
+
+<h1>Concesnus Protocol</h1>
+
+<p>Oliz 
+ / 2022-10-05 </p>
+
+<hr/>
+</div>
+
+<span class="article-toolbar">
+  
+  
+  
+  
+  
+  
+  
+  <a href='https://github.com/oliz888/myWebsite/edit/main/content/en/posts/2022-10-15.md'style="font-size: 24px; color: black;" target="_blank"><i class="fa fa-edit" aria-hidden="true" title="Suggest an edit of this page"></i>
+  </a>
+  
+  
+  
+</span>
+
+
+
+<div class="body-text list-text">
+<p><a href="https://nebulous-helmet-5b6.notion.site/Fork_the_Government-a02ad4c91f064fbd86066ff0c7671b36" target="_blank" rel="noreferrer noopener">Read more on Notion</a>
+
+</p>
+<h2 id="independent-research">Independent Research:<a href="#independent-research" class="header-anchor" ariaLabel="Anchor"> # </a></h2>
+<p><strong>How is consensus built and evolved through a voting mechanism?</strong><br>
+Using Taiwan’s voting regarding Uber compliance issues on Polis as an example.</p>
+<h3 id="projects-main-question">Project’s Main Question:<a href="#projects-main-question" class="header-anchor" ariaLabel="Anchor"> # </a></h3>
+<p>Polls and probabilistic modeling results often serve as a reference for predicting voting behavior in final elections. However, issues like the ‘horse race’ problem and misinterpretation of models can distort the original intent of polls and voting, which should unite society and find common ground among different communities.</p>
+<p>With the rise of modern social media, echo chambers have intensified polarization. This project rethinks the voting process, exploring it as a mechanism to heal divisions. The research aims to examine how voting mechanisms can build consensus and mitigate echo chambers. It involves:</p>
+<ul>
+<li>Plotting time-series data to investigate consensus evolution.</li>
+<li>Applying UMAP to explore high-dimensional characteristics and calculate social distance.</li>
+<li>Leveraging sentiment analysis techniques (NLP) to classify emotions in comments.</li>
+<li>Proposing improvements to comment display algorithms.</li>
+</ul>
+<h3 id="projects-data-source-and-related-fields">Project’s Data Source and Related Fields:<a href="#projects-data-source-and-related-fields" class="header-anchor" ariaLabel="Anchor"> # </a></h3>
+<p>Polis is a platform where participants can draft statements on issues and respond to suggestions by agreeing or disagreeing. Polis processes responses, reducing high-dimensional data to a four-dimensional space (via UMAP), and maps opinion groups to highlight different perspectives.</p>
+<h4 id="data-sources">Data Sources:<a href="#data-sources" class="header-anchor" ariaLabel="Anchor"> # </a></h4>
+<ul>
+<li><a href="https://github.com/compdemocracy/openData/tree/master/vtaiwan.uberx" target="_blank" rel="noreferrer noopener">Uber Data on GitHub</a>
+
+:<br>
+Includes:
+<ul>
+<li>Comments</li>
+<li>Participant votes</li>
+<li>Statistics history</li>
+<li>Summary and votes</li>
+</ul>
+</li>
+<li>Data includes:
+<ul>
+<li>Time-series analysis of consensus over time.</li>
+<li>Votes on comments.</li>
+<li>High-dimensional data simulations using UMAP or PCA.</li>
+</ul>
+</li>
+</ul>
+<h3 id="projects-anticipated-challenges">Project’s Anticipated Challenges:<a href="#projects-anticipated-challenges" class="header-anchor" ariaLabel="Anchor"> # </a></h3>
+<ol>
+<li>Interpreting variables in the dataset.</li>
+<li>Understanding advanced algorithms like PCA, Leiden graphs, and UMAP.</li>
+</ol>
+<h3 id="references">References:<a href="#references" class="header-anchor" ariaLabel="Anchor"> # </a></h3>
+<ul>
+<li><a href="https://leemeng.tw/essence-of-principal-component-analysis.html" target="_blank" rel="noreferrer noopener">PCA Introduction</a>
+
+</li>
+<li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html" target="_blank" rel="noreferrer noopener">PCA Algorithm in Python</a>
+
+</li>
+<li><a href="https://dimensionality-reduction-293e465c2a3443e8941b016d.vercel.app/" target="_blank" rel="noreferrer noopener">Dimensionality Reduction Guide</a>
+
+</li>
+<li><a href="https://setosa.io/ev/principal-component-analysis/" target="_blank" rel="noreferrer noopener">PCA 2-D and 3-D Examples</a>
+
+</li>
+<li><a href="https://github.com/compdemocracy/analysis/tree/master/notebooks/jupyter" target="_blank" rel="noreferrer noopener">GitHub - Analysis Examples</a>
+
+
+<ul>
+<li>Heatmap, PCA, UMAP, and Leiden examples.</li>
+</ul>
+</li>
+<li><a href="https://github.com/compdemocracy/openData/tree/master/vtaiwan.uberx" target="_blank" rel="noreferrer noopener">Uber Data on GitHub</a>
+
+</li>
+<li><a href="https://compdemocracy.org/Case-studies/" target="_blank" rel="noreferrer noopener">Polis Case Studies</a>
+
+</li>
+<li><a href="https://pol.is/report/r32beaksmhwesyum6kaur" target="_blank" rel="noreferrer noopener">Polis Report</a>
+
+
+<ul>
+<li>Sample: 4,844 participants, 1,275 grouped, 51,258 votes, 197 statements.</li>
+</ul>
+</li>
+</ul>
+<h3 id="additional-resources">Additional Resources:<a href="#additional-resources" class="header-anchor" ariaLabel="Anchor"> # </a></h3>
+<ul>
+<li><a href="https://journals.sagepub.com/doi/epub/10.1177/1464884917731655" target="_blank" rel="noreferrer noopener">The Probabilistic Model Problem</a>
+
+:<br>
+Highlights issues with public misinterpretation of probabilistic models and their manipulation by elite groups.</li>
+<li><a href="https://gov.gitcoin.co/t/how-soulbound-tokens-can-make-gitcoin-grants-more-pluralistic/10077" target="_blank" rel="noreferrer noopener">Soulbound Tokens for Pluralistic Voting</a>
+
+:<br>
+An extension to calculate social distances between groups using social landscape mapping.</li>
+</ul>
+<h3 id="potential-external-support">Potential External Support:<a href="#potential-external-support" class="header-anchor" ariaLabel="Anchor"> # </a></h3>
+<ul>
+<li>Alex Lundry: alexlundry@gmail.com</li>
+<li>Compdemocracy: hello@compdemocracy.org</li>
+<li><a href="https://info.vtaiwan.tw/#six" target="_blank" rel="noreferrer noopener">vTaiwan Info</a>
+
+</li>
+</ul>
+
+
+  
+    
+      <a href="http://localhost:1313//tags/data-science/">#Data Science</a>
+    
+      <a href="http://localhost:1313//tags/governance/">#Governance</a>
+    
+  
+
+<p style="color:#777;">Last modified on 2022-10-05</p>
+</div>
+<a href="#top"><i class="fa fa-chevron-up" style="font-size: 30px; color: black;"></i></a>
+
+</main>
+
+<footer class="footer">
+  <div class="content">
+
+<script src="https://giscus.app/client.js"
+        data-repo="hongtaoh/mywebsite"
+        data-repo-id="R_kgDOLwIVBA"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOLwIVBM4CeyR1"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+</br>
+ 
+</div>
+  <script type="text/javascript" src="/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/javascript" src="/js/center-img.js"></script>
+
+
+
+     <ul class="footer-links">
+      
+       
+       
+       
+       <li><a href="/en/posts/index.xml" type="application/rss+xml" title="RSS feed">
+       Subscribe </a>
+       </li>
+       
+       
+       <li>
+       
+        <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
+       
+        License
+        <i class="fa fa-cc" aria-hidden="true" title="Attribution-NonCommercial-ShareAlike 4.0 International"></i> 
+        </a>
+       </li>
+       
+     </ul>
+     <div class="copyright-text">
+            
+            ©
+            
+            Olivia Zhou
+            
+            2020-2021
+            
+     </div>
+
+</footer>
+
+
+
+
+

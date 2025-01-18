@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Governance on Oliz&#39;s Personal Website</title>
+    <link>http://localhost:59838/tags/governance/</link>
+    <description>Recent content in Governance on Oliz&#39;s Personal Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:59838/tags/governance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concesnus Protocol</title>
+      <link>http://localhost:59838/en/2022/10/05/2022-10-15/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59838/en/2022/10/05/2022-10-15/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://nebulous-helmet-5b6.notion.site/Fork_the_Government-a02ad4c91f064fbd86066ff0c7671b36&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Read more on Notion&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;independent-research&#34;&gt;Independent Research:&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;How is consensus built and evolved through a voting mechanism?&lt;/strong&gt;&lt;br&gt;&#xA;Using Taiwan’s voting regarding Uber compliance issues on Polis as an example.&lt;/p&gt;&#xA;&lt;h3 id=&#34;projects-main-question&#34;&gt;Project’s Main Question:&lt;/h3&gt;&#xA;&lt;p&gt;Polls and probabilistic modeling results often serve as a reference for predicting voting behavior in final elections. However, issues like the ‘horse race’ problem and misinterpretation of models can distort the original intent of polls and voting, which should unite society and find common ground among different communities.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
